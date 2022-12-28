@@ -6,8 +6,7 @@
   "type": "commonjs",
   "scripts": {
     "dev": "nodemon ./src/api/v1/index.ts",
-    "start": "node ./dist/api/v1/index.js",
-    "build": "npx tsc"
+    "start": "node ./dist/api/v1/index.js"
   },
   "keywords": [],
   "author": "",
